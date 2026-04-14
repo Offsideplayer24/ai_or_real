@@ -1,5 +1,7 @@
 # **VerifyIt 🔍**
 
+![Alt text](Screenshot 2026-04-10 013924.png)
+
 > An adaptive web game that challenges you to spot AI-generated videos. Built with an EfficientNet-B0 transfer learning pipeline and a Streamlit frontend. You compete head-to-head against the model — after every guess, the game reveals the AI's prediction, its confidence level, and the ground truth.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
