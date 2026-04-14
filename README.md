@@ -1,4 +1,4 @@
-# **VerifyIt 🔍**
+# **VerifyIt**
 
 ![Alt text](./gamepage.jpg)
 
